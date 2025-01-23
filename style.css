@@ -10,10 +10,10 @@ body{
     min-height: 100vh;
     background-color: black;
 }
-.bg-video {
+.bg-video{
     margin-top: 100px;
     position: fixed;
-    opacity: 0.3;
+    opacity: 0.25;
 }
 .content{
     height: 200px;
