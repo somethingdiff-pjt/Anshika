@@ -13,7 +13,7 @@ body{
 .bg-video {
     margin-top: 100px;
     position: fixed;
-    opacity: 0.2;
+    opacity: 0.3;
 }
 .content{
     height: 200px;
